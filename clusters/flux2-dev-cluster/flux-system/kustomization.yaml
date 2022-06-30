@@ -6,3 +6,4 @@ resources:
 - webhook-token.yaml
 - receiver-service.yaml
 - notification-receiver.yaml
+- infraaddons.yaml
